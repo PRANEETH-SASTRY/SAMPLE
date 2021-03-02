@@ -1,2 +1,0 @@
-print('sumanth')
-print('kijij')
